@@ -1,0 +1,29 @@
+{
+  "response_code":0,
+  "results":[
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+      "correct_answer":"Justin Bieber",
+      "incorrect_answers":[
+        "Selena Gomez",
+        "Ellie Goulding",
+        "The Weeknd"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Whose signature guitar technique is called the &quot;windmill&quot;?",
+      "correct_answer":"Pete Townshend",
+      "incorrect_answers":[
+        "Jimmy Page",
+        "Eddie Van Halen",
+        "Jimi Hendrix"
+      ]
+    }
+  ]
+}

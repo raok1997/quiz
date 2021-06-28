@@ -1,0 +1,29 @@
+{
+   "response_code":0,
+   "results":[
+      {
+         "category":"Entertainment: Film",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?",
+         "correct_answer":"Johnny Depp",
+         "incorrect_answers":[
+            " Clint Eastwood",
+            "Leonardo DiCaprio",
+            "Ben Stiller"
+         ]
+      },
+      {
+         "category":"Entertainment: Film",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In the 1979 British film &quot;Quadrophenia&quot; what is the name of the seaside city the mods are visiting?",
+         "correct_answer":"Brighton",
+         "incorrect_answers":[
+            "Eastbourne",
+            "Mousehole",
+            "Bridlington"
+         ]
+      }
+   ]
+}
