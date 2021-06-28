@@ -2,17 +2,19 @@
 
 This is a spring boot application that exposes Rest endpoint /coding/exercise/quiz
 
-##How to run?
+## How to run?
 	mvn spring-boot:run
+    (OR)
+    mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8085 (to customize port)
 	
-##Required softwares
+## Required softwares
 	JDK 1.8+
 	Maven
 
-##Secuirty
+## Secuirty
   The endpoints are not secured at this point
   
-##How to test?
+## How to test?
 	Open browser and enter http://localhost:8080/coding/exercise/quiz
 	(OR)
 	curl 'http://localhost:8080/coding/exercise/quiz'
